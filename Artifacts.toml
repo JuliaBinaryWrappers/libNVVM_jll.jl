@@ -1,35 +1,35 @@
 [[libNVVM]]
 arch = "x86_64"
-git-tree-sha1 = "836897fa97c487adc2bda049444255887d5a3fc9"
+git-tree-sha1 = "a66bec733127256670ea063f439421a5ce7c5615"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "4dc09bf50e3a1d3c8624ebf47be2eb90534c9d92fea94fa6c7212f36e79715da"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.0+1/libNVVM.v4.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "6ace7037024b16a650cc4e9ba47686141766b23d8aed763d60878434e5e07c2e"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v5.0.0+0/libNVVM.v5.0.0.x86_64-linux-gnu.tar.gz"
 [[libNVVM]]
 arch = "powerpc64le"
-git-tree-sha1 = "79faac25f0ef313314e3d3245e1c2a6b308f6b2e"
+git-tree-sha1 = "adfc35acbf76820c27ef7741f8e9b45c6fe53f89"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "787490129ee1f7fab67d0bab2d14b6653baba72b87f07d99819d225d1ae2f508"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.0+1/libNVVM.v4.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "aadfa4baf2a221b228c980f587334fc89141045b0fc71dd9832bf3829a15c1d1"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v5.0.0+0/libNVVM.v5.0.0.powerpc64le-linux-gnu.tar.gz"
 [[libNVVM]]
 arch = "aarch64"
-git-tree-sha1 = "7dafa7af196db27bacf33a2987c38ac2b4477d19"
+git-tree-sha1 = "e86a7fe3fb093a1ace4c3b28f58807d458ee6a52"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "a90012c0453cf57866ed560319b3347cb011648bdaf9aac6d61c1c8ec92638fb"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.0+1/libNVVM.v4.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "f1d0d95ad880e6352cce1eba140b9af6201991c0d77fb8158e797df15d4a8cf5"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v5.0.0+0/libNVVM.v5.0.0.aarch64-linux-gnu.tar.gz"
 [[libNVVM]]
 arch = "x86_64"
-git-tree-sha1 = "56d658219645d05e87c0cdeb2be376178bcd29d2"
+git-tree-sha1 = "2e010461dd890b0a660ba6f2ffa068c880387f36"
 os = "windows"
 
     [[libNVVM.download]]
-    sha256 = "11325066efbf7f1c84776fa8d047abd6902978e594082358430bd7f908fde0fd"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.0+1/libNVVM.v4.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d6b5a852cd2b265c0ced80ef57999e2bbec4346248a6782b8a18bf41a9e38588"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v5.0.0+0/libNVVM.v5.0.0.x86_64-w64-mingw32.tar.gz"
