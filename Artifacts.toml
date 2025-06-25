@@ -1,37 +1,37 @@
 [[libNVVM]]
 arch = "x86_64"
-git-tree-sha1 = "308d798057727f496e6601938af8934760f30972"
+git-tree-sha1 = "78b2a9684fc5641d28c3454cde5c725461ed9c1a"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "f7739129cd774e1f8544876b66fe70e4cba25d291cdda96f90aaa079396c4aab"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.3+0/libNVVM.v4.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "1bbf59d1b8571d5405b8205f130fde1a341219b2b28457bc6705ebf107842894"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.4+0/libNVVM.v4.0.4.x86_64-linux-gnu.tar.gz"
 [[libNVVM]]
 arch = "aarch64"
 cuda_platform = "jetson"
-git-tree-sha1 = "a1507046939409eb3ab8138b1f511ed7ae0276e1"
+git-tree-sha1 = "e33b7d404b881e31a986c67f7ac2d0ab7c11fe64"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "e95cf6fc347c7de10aa05946536ce6c6336377c2a575999fe41d63313a8763d7"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.3+0/libNVVM.v4.0.3.aarch64-linux-gnu-cuda_platform+jetson.tar.gz"
+    sha256 = "4bcb62e6af02d2ec21f54babe2911a6716b887a272ee91f6bdcbaabc99584424"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.4+0/libNVVM.v4.0.4.aarch64-linux-gnu-cuda_platform+jetson.tar.gz"
 [[libNVVM]]
 arch = "aarch64"
 cuda_platform = "sbsa"
-git-tree-sha1 = "1bc24609757d90197568bd3cdf45573c142443ff"
+git-tree-sha1 = "e076b21cbf7809406abdb10fe8f8bab80a97bb2e"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "c8ac5b1af16cd3eeb382cfa38492e9f76406563377f8748b400d62d17f64be31"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.3+0/libNVVM.v4.0.3.aarch64-linux-gnu-cuda_platform+sbsa.tar.gz"
+    sha256 = "4c14da5e677d4984711599b49b600e3becb3db12f71ef1a6270cb3117ee2d3e0"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.4+0/libNVVM.v4.0.4.aarch64-linux-gnu-cuda_platform+sbsa.tar.gz"
 [[libNVVM]]
 arch = "x86_64"
-git-tree-sha1 = "fc43472c69db003edfad3f4a0f012fd841b24fee"
+git-tree-sha1 = "ab3a444933817bf34072bdee32bdf8ba2e677b72"
 os = "windows"
 
     [[libNVVM.download]]
-    sha256 = "d02e6b2ab8a71693cd1d1e64a617493f033f3e415af460aa25247c2291e49b97"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.3+0/libNVVM.v4.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "054d32d867e6a08cefca5d3a03691f3e0cc8cac94f041e1f0f2a284ed964d140"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.4+0/libNVVM.v4.0.4.x86_64-w64-mingw32.tar.gz"
