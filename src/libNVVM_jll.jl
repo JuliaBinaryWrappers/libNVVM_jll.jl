@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("libNVVM")
-JLLWrappers.@generate_main_file("libNVVM", UUID("6f58c745-96ce-5283-a1a3-a6a4b3939f59"))
+JLLWrappers.@generate_main_file("libNVVM", Base.UUID("6f58c745-96ce-5283-a1a3-a6a4b3939f59"))
 end  # module libNVVM_jll

@@ -1,29 +1,29 @@
 [[libNVVM]]
 arch = "x86_64"
 cuda = "13"
-git-tree-sha1 = "630c88a1c0813aaad76a180b6a10ad2187b1d094"
+git-tree-sha1 = "fb7ad7352704eb287fe9e18e9a05f490c241dbec"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "3b98bbf7faaaffd7004102a220a59ff16bfb61cef73cc6a3182caec8e9721503"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.5+1/libNVVM.v4.0.5.x86_64-linux-gnu-cuda+13.tar.gz"
+    sha256 = "b816bbc23cd038933c71adc86515effb6593c696ea3c13e9883d6ed436bab1cd"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.7+0/libNVVM.v4.0.7.x86_64-linux-gnu-cuda+13.tar.gz"
 [[libNVVM]]
 arch = "aarch64"
 cuda = "13"
-git-tree-sha1 = "df2ed7b9fc047fb05d8d935454561c443bef2464"
+git-tree-sha1 = "3086f90ee84ba7f3a3210c07b782a046e5bffd34"
 libc = "glibc"
 os = "linux"
 
     [[libNVVM.download]]
-    sha256 = "fe6e99f579e4e9c206084ec9125703812366cd5808fb53ec6f1a9e3c9fb936fd"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.5+1/libNVVM.v4.0.5.aarch64-linux-gnu-cuda+13.tar.gz"
+    sha256 = "946b3a5b115d978788758b4a31c146988b5c477aeb5ad57e59274f29cc9bfec1"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.7+0/libNVVM.v4.0.7.aarch64-linux-gnu-cuda+13.tar.gz"
 [[libNVVM]]
 arch = "x86_64"
 cuda = "13"
-git-tree-sha1 = "9c7728020c5914bee24ec34c3fea6fa15c0e7b70"
+git-tree-sha1 = "2301b6fa711db61def625b9648224a23ecaf943c"
 os = "windows"
 
     [[libNVVM.download]]
-    sha256 = "32bd60f427e2a7f3cb1633ac62d0ab9661d550121a97c1a8abe54c4dc179d7f2"
-    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.5+1/libNVVM.v4.0.5.x86_64-w64-mingw32-cuda+13.tar.gz"
+    sha256 = "0e6887a08a3588f3b24eb12737686e1015ec309ae0b666c1bd9536e49ef3857e"
+    url = "https://github.com/JuliaBinaryWrappers/libNVVM_jll.jl/releases/download/libNVVM-v4.0.7+0/libNVVM.v4.0.7.x86_64-w64-mingw32-cuda+13.tar.gz"
